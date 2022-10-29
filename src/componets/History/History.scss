@@ -1,0 +1,41 @@
+.history {
+  text-align: center;
+  margin: 1.5em auto;
+
+  ul {
+    list-style: none;
+    padding: 0;
+
+    li {
+      padding: 0;
+
+      button {
+        border-radius: 3px;
+        margin: 0 0 0.3em 0;
+        padding: 0.5em 2em;
+        background-color: white;
+        border: none;
+        color: #282c34;
+        -webkit-transition: background-color 0.05s linear;
+        -ms-transition: background-color 0.05s linear;
+        transition: background-color 0.05s linear;
+        cursor: pointer;
+        border: 1px solid #282c34;
+
+        &:focus {
+          outline: none;
+        }
+
+        &:hover {
+          color: #282c34;
+          background-color: #60dbfb;
+        }
+
+        &.active {
+          color: white;
+          background-color: #282c34;
+        }
+      }
+    }
+  }
+}
