@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/x-o-game/static/css/main.b501def4.css",
+    "main.js": "/x-o-game/static/js/main.f829e6a1.js",
+    "static/media/logo.svg": "/x-o-game/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/x-o-game/index.html",
+    "main.b501def4.css.map": "/x-o-game/static/css/main.b501def4.css.map",
+    "main.f829e6a1.js.map": "/x-o-game/static/js/main.f829e6a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b501def4.css",
+    "static/js/main.f829e6a1.js"
+  ]
+}
